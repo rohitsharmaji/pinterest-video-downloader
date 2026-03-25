@@ -2,7 +2,6 @@
 
 Download Pinterest videos, GIFs, and images in high quality for free. This tool supports all Pinterest links, including pin.it short URLs, and works on both mobile and desktop.
 
----
 
 ## 🚀 Features
 
@@ -12,7 +11,6 @@ Download Pinterest videos, GIFs, and images in high quality for free. This tool 
 - Fast, secure, and easy to use
 - No app installation required
 
----
 
 ## 📥 How to Use
 
@@ -20,25 +18,21 @@ Download Pinterest videos, GIFs, and images in high quality for free. This tool 
 2. Click the button below
 3. Paste your link and download instantly
 
----
 
 ## 👉 Use the Tool
 
 🔗 https://rohitsharma.co/pinterest-video-downloader/
 
----
 
 ## 💡 Why Use This Tool?
 
 Many users struggle to download Pinterest content easily. This tool solves that problem with a simple and reliable solution. It is designed for speed, privacy, and ease of use.
 
----
 
 ## ⚠️ Disclaimer
 
 This tool is intended for personal use only. Please respect content creators and platform policies.
 
----
 
 ## ❤️ Support
 
